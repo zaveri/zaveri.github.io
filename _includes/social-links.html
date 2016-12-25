@@ -88,4 +88,9 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+    {% if site.snapchat %}
+        <a class="link" data-title="{{ site.snapchat }}" href="mailto:{{ site.email }}">
+            <svg class="icon icon-snapchat"><use xlink:href="#icon-snapchat"></use></svg>
+        </a>
+    {% endif %}
 </div>
