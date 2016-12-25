@@ -18,10 +18,6 @@
     <b><a href="README.md#tests">Tests</a></b>
 </p>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
-</p>
-
 ## What has inside?
 
 - [Jekyll](https://jekyllrb.com/), [Gulp](http://gulpjs.com/), [Sass](http://sass-lang.com/) ~[RSCSS](http://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/)
