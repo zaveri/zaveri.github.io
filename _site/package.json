@@ -13,6 +13,10 @@
   "scripts": {
     "build": "bundle exec jekyll build",
     "serve": "bundle exec jekyll serve",
-    "test": "bundle exec htmlproofer ./_site"
+    "test": "bundle exec htmlproofer ./_site",
+    "start": "micro"
+  },
+  "dependencies": {
+    "micro": "latest"
   }
 }
