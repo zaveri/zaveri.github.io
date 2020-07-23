@@ -105,6 +105,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-theme-leap-day
 
 jekyll-mentions:
     base_url: https://github.com
